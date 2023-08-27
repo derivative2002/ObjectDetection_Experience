@@ -1,4 +1,5 @@
 aeroplane
+airplane
 bicycle
 bird
 boat

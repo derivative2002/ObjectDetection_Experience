@@ -1,0 +1,90 @@
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0009.jpg 456,457,562,595,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0014.jpg 451,444,582,548,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0024.jpg 89,457,146,534,1 424,419,479,493,1 539,328,646,464,1 864,484,948,553,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0025.jpg 373,291,446,359,1 429,413,567,520,1 626,845,698,931,1 655,972,728,1024,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0044.jpg 161,611,213,694,1 350,514,437,618,1 509,713,613,802,1 673,711,776,795,1 820,710,922,796,1 973,710,1024,790,1 634,349,737,435,1 682,249,773,330,1 741,337,831,407,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0094.jpg 217,724,285,795,1 332,470,406,537,1 312,386,395,455,1 339,815,398,870,1 621,628,692,699,1 720,567,798,635,1 727,328,798,396,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0102.jpg 432,466,514,537,1 645,432,689,484,1 631,480,671,544,1 651,509,685,559,1 466,573,502,608,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0104.jpg 425,155,472,196,1 451,227,543,294,1 433,441,481,492,1 574,487,616,543,1 595,565,637,623,1 377,695,424,746,1 428,701,479,753,1 548,832,604,879,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0113.jpg 572,819,654,876,1 502,589,605,678,1 721,435,807,541,1 735,275,820,380,1 747,128,833,232,1 370,273,451,374,1 277,229,357,315,1 368,178,437,270,1 765,2,848,81,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0119.jpg 362,639,415,710,1 325,711,382,766,1 580,331,668,432,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0136.jpg 304,495,359,545,1 608,517,709,593,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0142.jpg 502,497,592,563,1 326,482,371,533,1 358,435,395,494,1 350,408,389,459,1 546,429,583,462,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0145.jpg 435,467,575,579,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0156.jpg 565,506,637,592,1 477,460,567,541,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0157.jpg 425,452,455,493,1 491,428,560,520,1 514,648,562,696,1 457,629,516,669,1 437,646,488,685,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0178.jpg 595,674,700,751,1 523,600,560,655,1 463,580,510,636,1 470,526,524,596,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0190.jpg 94,494,182,560,1 183,502,267,566,1 437,656,528,715,1 540,659,629,720,1 406,373,490,433,1 502,374,605,433,1 610,375,699,436,1 714,387,797,444,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0202.jpg 413,186,484,268,1 339,592,409,675,1 424,606,496,685,1 627,799,707,870,1 762,718,805,789,1 665,381,737,461,1 640,263,710,351,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0206.jpg 259,574,335,685,1 368,511,422,549,1 384,452,447,505,1 429,465,496,520,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0210.jpg 310,447,410,524,1 649,459,713,511,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0211.jpg 676,359,755,463,1 577,493,631,529,1 560,533,617,580,1 509,515,572,564,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0213.jpg 302,591,367,668,1 421,463,522,599,1 831,290,915,363,1 955,245,1024,318,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0222.jpg 316,645,396,740,1 382,548,430,586,1 388,490,438,539,1 432,487,492,540,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0225.jpg 433,466,575,581,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0242.jpg 155,578,198,632,1 264,450,318,498,1 271,396,321,441,1 412,600,463,643,1 487,575,540,617,1 527,427,578,476,1 727,431,792,518,1 821,395,862,441,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0298.jpg 430,455,526,523,1 655,507,697,553,1 618,544,661,601,1 627,579,666,626,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0302.jpg 357,398,423,450,1 470,535,530,628,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0305.jpg 615,599,673,650,1 400,333,479,414,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0309.jpg 276,791,351,872,1 339,720,405,800,1 596,587,672,670,1 668,511,732,587,1 355,468,420,540,1 415,372,488,459,1 478,294,547,377,1 551,224,611,299,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0325.jpg 407,520,517,593,1 531,495,638,564,1 650,480,760,555,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0345.jpg 404,449,542,544,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0358.jpg 355,614,437,713,1 416,505,495,606,1 466,392,545,497,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0364.jpg 488,403,575,557,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0383.jpg 555,619,677,724,1 630,581,705,691,1 557,518,655,647,1 606,472,681,560,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0418.jpg 351,624,435,740,1 325,342,389,429,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0426.jpg 492,401,591,529,1 628,380,719,504,1 756,351,844,481,1 879,328,972,453,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0432.jpg 619,499,727,581,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0437.jpg 359,530,470,611,1 544,544,661,624,1 739,146,840,215,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0438.jpg 242,397,411,547,1 407,385,506,476,1 425,413,592,568,1 546,370,647,453,1 566,384,745,538,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0444.jpg 499,536,540,575,1 522,580,568,620,1 373,337,449,398,1 456,305,528,366,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0454.jpg 736,634,871,743,1 834,936,877,1008,1 750,929,799,997,1 526,651,585,735,1 430,642,487,728,1 345,635,406,718,1 273,644,336,715,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0467.jpg 934,686,1024,775,1 845,633,934,735,1 704,546,749,608,1 665,526,709,583,1 426,432,473,486,1 380,391,421,452,1 322,369,362,426,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0473.jpg 97,97,183,182,1 176,175,259,263,1 304,357,356,404,1 333,391,388,438,1 528,557,571,605,1 560,611,611,661,1 604,654,657,705,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0475.jpg 377,823,462,929,1 442,627,530,738,1 523,213,614,321,1 758,312,850,423,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0482.jpg 57,463,109,529,1 115,452,164,514,1 201,450,248,514,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0486.jpg 241,447,370,565,1 409,252,521,372,1 542,255,659,378,1 683,256,800,376,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0493.jpg 205,463,315,556,1 254,211,360,308,1 635,450,740,541,1 834,472,941,563,1 988,250,1024,339,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0512.jpg 372,352,432,439,1 445,362,505,452,1 591,493,651,584,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0525.jpg 174,555,285,675,1 311,599,421,722,1 435,653,545,772,1 643,539,766,650,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0526.jpg 160,426,269,532,1 41,1,86,47,1 264,530,368,630,1 361,627,459,732,1 606,613,711,720,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0528.jpg 293,506,404,590,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0529.jpg 330,803,431,964,1 491,755,617,870,1 439,319,559,418,1 495,207,617,299,1 556,89,685,172,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0546.jpg 331,395,394,460,1 387,329,449,397,1 522,525,557,565,1 559,555,598,594,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0555.jpg 590,561,723,710,1 476,570,556,650,1 435,450,572,598,1 339,522,429,600,1 288,410,440,562,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0568.jpg 20,594,92,687,1 386,551,559,678,1 444,869,490,956,1 529,881,579,961,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0593.jpg 787,361,888,438,1 400,672,480,781,1 421,582,528,667,1 382,519,477,593,1 306,413,409,492,1 414,417,517,501,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0596.jpg 252,926,308,975,1 280,892,329,936,1 385,719,477,806,1 446,628,529,711,1 552,443,619,512,1 328,465,386,533,1 377,346,459,428,1 159,467,203,528,1 114,433,156,491,1 64,409,103,467,1 16,386,58,441,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0601.jpg 343,457,442,548,1 499,571,592,655,1 879,341,1001,419,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0620.jpg 501,490,546,548,1 684,490,726,550,1 805,543,846,598,1 608,229,664,273,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0632.jpg 370,465,434,549,1 542,569,602,654,1 608,560,670,649,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0634.jpg 315,300,449,453,1 456,426,589,577,1 580,478,729,624,1 474,375,551,448,1 597,436,686,507,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0641.jpg 282,458,327,523,1 349,449,390,517,1 414,460,459,525,1 664,443,709,510,1 713,444,755,513,1 876,447,976,551,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0642.jpg 373,756,439,810,1 352,839,417,891,1 349,897,417,953,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0667.jpg 605,615,668,704,1 611,312,694,421,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0672.jpg 170,553,303,675,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0706.jpg 251,432,360,517,1 533,283,607,365,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0713.jpg 329,478,614,729,1 302,540,395,608,1 358,486,452,561,1 376,423,472,496,1 300,383,404,462,1 309,323,401,392,1 393,349,492,432,1 413,283,508,363,1 480,352,577,434,1 541,290,636,368,1 492,434,592,520,1 559,395,647,468,1 573,463,669,541,1 518,521,606,583,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0716.jpg 277,195,322,249,1 532,286,579,337,1 565,254,616,306,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0724.jpg 379,418,491,498,1 490,401,598,480,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0735.jpg 394,562,469,629,1 585,514,662,583,1 631,461,707,524,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0759.jpg 226,519,321,593,1 303,591,406,662,1 679,584,746,637,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0793.jpg 207,100,289,220,1 556,382,633,494,1 505,563,580,675,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0820.jpg 443,653,518,715,1 363,620,444,680,1 515,457,557,493,1 525,405,575,448,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0822.jpg 522,466,647,569,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0841.jpg 38,539,83,606,1 1,539,37,603,1 199,531,305,635,1 315,537,409,628,1 538,520,616,583,1 397,342,475,411,1 511,320,614,411,1 310,201,364,248,1 314,146,364,192,1 308,91,355,134,1 298,35,350,83,1 297,1,354,27,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0873.jpg 558,469,634,578,1 508,369,584,477,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0884.jpg 927,580,996,674,1 541,363,681,505,1 645,101,709,176,1 716,147,777,226,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0896.jpg 253,209,355,306,1 205,468,312,560,1 635,449,742,540,1 833,468,944,560,1 798,315,847,350,1 804,257,856,287,1 986,245,1024,336,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0906.jpg 64,476,136,536,1 1,303,59,369,1 364,658,453,728,1 468,657,534,722,1 463,314,514,359,1 530,315,579,359,1 721,303,781,357,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0918.jpg 78,543,151,627,1 380,397,441,460,1 341,564,377,599,1 370,594,409,629,1 416,622,458,652,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0939.jpg 151,729,235,797,1 285,539,350,602,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0942.jpg 614,862,672,936,1 764,951,815,999,1 686,506,751,585,1 655,431,713,492,1 333,567,374,612,1 311,503,353,552,1 235,316,284,376,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0948.jpg 83,356,159,450,1 425,360,492,429,1 374,581,411,608,1 343,531,372,568,1 327,491,359,531,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0951.jpg 206,307,283,382,1 336,311,413,393,1 458,305,533,391,1 550,305,627,380,1 845,305,984,467,1 213,691,281,748,1 418,684,497,763,1 819,677,895,755,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0955.jpg 558,930,626,989,1 476,565,529,610,1 459,500,504,551,1 417,389,454,431,1 405,336,441,384,1 389,285,425,329,1 369,234,406,276,1 350,169,388,213,1 328,100,368,141,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0962.jpg 186,594,254,680,1 148,406,213,483,1 271,530,358,593,1 321,414,387,492,1 486,419,566,499,1 594,495,641,534,1 641,501,685,542,1 789,511,837,552,1 891,519,936,557,1 942,518,986,560,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0963.jpg 188,648,254,706,1 383,672,462,753,1 784,728,864,809,1 236,270,314,347,1 364,292,438,374,1 481,310,558,390,1 574,316,653,394,1 858,370,1003,528,1 685,1,732,44,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0971.jpg 106,319,176,403,1 333,340,394,408,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0972.jpg 425,339,466,383,1 408,365,447,410,1 569,698,625,764,1 703,593,766,651,1
+H:\pythonProject\ObjectDetection\yolov7-pytorch\VOCdevkit/VOC2007/JPEGImages/airplane-001-0977.jpg 321,533,387,597,1 424,468,495,529,1 510,380,599,463,1 611,302,706,384,1
